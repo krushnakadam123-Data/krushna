@@ -6,7 +6,6 @@ if num >1:
         if num % i ==0:
             print("its not a prime number")
             break
-
     else:
         print("prime number")
 else:
